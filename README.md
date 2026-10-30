@@ -36,6 +36,8 @@ The system includes five specialized agents:
 | ADMINISTRATION | Enrollment, certificates, and university procedures |
 | GENERAL | General questions, conversation, and date/time |
 
+![LangGraph Architecture](LangGraph_Project/langgraph_architecture.png) 
+
 ## 4. Tools
 
 The project integrates two tools:
